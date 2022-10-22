@@ -1,0 +1,244 @@
+[
+    {
+        "Product A": [
+            {
+                "barcode_no": 60988638,
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": 19.93,
+                "perc_unit_sales_growth": 52.63,
+                "previous_week_commencing_date": "2021-01-04",
+                "product_name": "Product A"
+            },
+            {
+                "barcode_no": 60988638,
+                "current_week_commencing_date": "2022-01-11",
+                "perc_gross_sales_growth": 45.51,
+                "perc_unit_sales_growth": 81.82,
+                "previous_week_commencing_date": "2021-01-11",
+                "product_name": "Product A"
+            },
+            {
+                "barcode_no": 60988638,
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": -4.85,
+                "perc_unit_sales_growth": -3.85,
+                "previous_week_commencing_date": "2021-01-18",
+                "product_name": "Product A"
+            },
+            {
+                "barcode_no": 60988638,
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": -28.5,
+                "perc_unit_sales_growth": -27.27,
+                "previous_week_commencing_date": "2021-01-25",
+                "product_name": "Product A"
+            }
+        ],
+        "Product B": [
+            {
+                "barcode_no": 59842899,
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": 108.81,
+                "perc_unit_sales_growth": 123.08,
+                "previous_week_commencing_date": "2021-01-04",
+                "product_name": "Product B"
+            },
+            {
+                "barcode_no": 59842899,
+                "current_week_commencing_date": "2022-01-11",
+                "perc_gross_sales_growth": -64.3,
+                "perc_unit_sales_growth": -45.45,
+                "previous_week_commencing_date": "2021-01-11",
+                "product_name": "Product B"
+            },
+            {
+                "barcode_no": 59842899,
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-18",
+                "product_name": "Product B"
+            },
+            {
+                "barcode_no": 59842899,
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": 0.17,
+                "perc_unit_sales_growth": 42.5,
+                "previous_week_commencing_date": "2021-01-25",
+                "product_name": "Product B"
+            }
+        ],
+        "Product C": [
+            {
+                "barcode_no": 87149829,
+                "current_week_commencing_date": "2021-01-11",
+                "perc_gross_sales_growth": -100,
+                "perc_unit_sales_growth": -100,
+                "previous_week_commencing_date": "null",
+                "product_name": "Product C"
+            },
+            {
+                "barcode_no": 87149829,
+                "current_week_commencing_date": "2021-01-25",
+                "perc_gross_sales_growth": -100,
+                "perc_unit_sales_growth": -100,
+                "previous_week_commencing_date": "null",
+                "product_name": "Product C"
+            },
+            {
+                "barcode_no": 87149829,
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": -67.17,
+                "perc_unit_sales_growth": -25.71,
+                "previous_week_commencing_date": "2021-01-04",
+                "product_name": "Product C"
+            },
+            {
+                "barcode_no": 87149829,
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": -18.65,
+                "perc_unit_sales_growth": 73.33,
+                "previous_week_commencing_date": "2021-01-18",
+                "product_name": "Product C"
+            }
+        ],
+        "Product D": [
+            {
+                "barcode_no": 67109906,
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": 126.88,
+                "perc_unit_sales_growth": 130.0,
+                "previous_week_commencing_date": "2021-01-04",
+                "product_name": "Product D"
+            },
+            {
+                "barcode_no": 67109906,
+                "current_week_commencing_date": "2022-01-11",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-11",
+                "product_name": "Product D"
+            },
+            {
+                "barcode_no": 67109906,
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-18",
+                "product_name": "Product D"
+            },
+            {
+                "barcode_no": 67109906,
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": 94.88,
+                "perc_unit_sales_growth": 100.0,
+                "previous_week_commencing_date": "2021-01-25",
+                "product_name": "Product D"
+            }
+        ]
+    },
+    {
+        "Brand A": [
+            {
+                "brand_id": 1,
+                "brand_name": "Brand A",
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": -79.76,
+                "perc_unit_sales_growth": 126.67,
+                "previous_week_commencing_date": "2021-01-04"
+            },
+            {
+                "brand_id": 1,
+                "brand_name": "Brand A",
+                "current_week_commencing_date": "2022-01-11",
+                "perc_gross_sales_growth": -21.6,
+                "perc_unit_sales_growth": 48.48,
+                "previous_week_commencing_date": "2021-01-11"
+            },
+            {
+                "brand_id": 1,
+                "brand_name": "Brand A",
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": -45.05,
+                "perc_unit_sales_growth": 25.0,
+                "previous_week_commencing_date": "2021-01-18"
+            },
+            {
+                "brand_id": 1,
+                "brand_name": "Brand A",
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": -3.35,
+                "perc_unit_sales_growth": -31.58,
+                "previous_week_commencing_date": "2021-01-25"
+            }
+        ],
+        "Brand B": [
+            {
+                "brand_id": 2,
+                "brand_name": "Brand B",
+                "current_week_commencing_date": "2021-01-11",
+                "perc_gross_sales_growth": -100,
+                "perc_unit_sales_growth": -100,
+                "previous_week_commencing_date": "null"
+            },
+            {
+                "brand_id": 2,
+                "brand_name": "Brand B",
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": 182.83,
+                "perc_unit_sales_growth": 64.71,
+                "previous_week_commencing_date": "2021-01-04"
+            },
+            {
+                "brand_id": 2,
+                "brand_name": "Brand B",
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-18"
+            },
+            {
+                "brand_id": 2,
+                "brand_name": "Brand B",
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": -38.67,
+                "perc_unit_sales_growth": -31.25,
+                "previous_week_commencing_date": "2021-01-25"
+            }
+        ],
+        "Brand C": [
+            {
+                "brand_id": 3,
+                "brand_name": "Brand C",
+                "current_week_commencing_date": "2022-01-04",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-04"
+            },
+            {
+                "brand_id": 3,
+                "brand_name": "Brand C",
+                "current_week_commencing_date": "2022-01-11",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-11"
+            },
+            {
+                "brand_id": 3,
+                "brand_name": "Brand C",
+                "current_week_commencing_date": "2022-01-18",
+                "perc_gross_sales_growth": "null",
+                "perc_unit_sales_growth": "null",
+                "previous_week_commencing_date": "2021-01-18"
+            },
+            {
+                "brand_id": 3,
+                "brand_name": "Brand C",
+                "current_week_commencing_date": "2022-01-25",
+                "perc_gross_sales_growth": 123.08,
+                "perc_unit_sales_growth": -71.05,
+                "previous_week_commencing_date": "2021-01-25"
+            }
+        ]
+    }
+]
